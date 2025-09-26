@@ -40,3 +40,19 @@ A summary table is included in the report (`.docx`) and notebook (`.ipynb`).
 | Perceptron (sklearn)  | 0.9600 | 0.9367 | 0.9867 | 0.9610 | 0.004 | 0.0002 |
 
 ---
+# Lab Assignment 3 – Machine Learning Models
+
+## 📌 Overview
+This repository contains the implementation of **Lab 3** for the Data Mining & Decision Support course.  
+The notebook demonstrates the application of different **machine learning algorithms** on datasets, including training, evaluation, and comparison.
+
+## 📝 Tasks
+### Task 1
+- Implementation of the first model/method (e.g., preprocessing, simple model).  
+
+### Task 2
+- Implementation of the second model/method with evaluation metrics.  
+
+### Task 3
+- Advanced analysis (e.g., Linear Discriminant Analysis, comparison, robustness testing).  
+
